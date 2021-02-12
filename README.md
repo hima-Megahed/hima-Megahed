@@ -36,9 +36,11 @@
   <a href="https://github.com/hima-Megahed" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=hima-Megahed&count_private=true&title_color=000&text_color=777" alt="Ibrahim's Stats" >
   </a>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hima-megahed&count_private=true&layout=compact)](https://github.com/hima-Megahed)
 </p>
+
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hima-megahed&count_private=true&layout=compact)](https://github.com/hima-Megahed)
+</div>
 
 
 <p align="center">
