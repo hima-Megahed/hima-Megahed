@@ -45,13 +45,15 @@
   </a>
 </p>
 
+<br><br>
+
 <p align="center">
   <a href="https://github.com/hima-Megahed">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hima-megahed&count_private=true&layout=compact" alt="Ibrahim's Stats" >
   </a>
 </p>
 
-
+<br><br>
 
 <p>
   <strong>Reach me out, and let's be friends 🤝</strong>
