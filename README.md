@@ -45,7 +45,7 @@
   </a>
 </p>
 
-<br><br>
+<br>
 
 <p align="center">
   <a href="https://github.com/hima-Megahed">
@@ -53,7 +53,7 @@
   </a>
 </p>
 
-<br><br>
+<br>
 
 <p>
   <strong>Reach me out, and let's be friends 🤝</strong>
