@@ -53,19 +53,13 @@
 
 
 
-<p align="center">
-  <a href="https://dev.to/himamegahed">
-    <img src="https://camo.githubusercontent.com/6bc5e62e0bf5e21ab8054b731540529bbc8e01b3/68747470733a2f2f6432666c746978307632653073622e636c6f756466726f6e742e6e65742f6465762d62616467652e737667" width="24px"/>
-  </a> 
-  <a href="https://www.linkedin.com/in/ibrahimhasan96">
-    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
-  </a>
-  <br><br>
+<p>
   <strong>Reach me out, and let's be friends 🤝</strong>
   <br><br>
-  [![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibrahimhasan96)](https://www.linkedin.com/in/ibrahimhasan96)
-[![Medium Badge](https://img.shields.io/badge/-@__jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@ibrahim_hasan)](https://medium.com/@ibrahim_hasan)
-[![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ibrahim__Hasan)](https://twitter.com/Ibrahim__Hasan)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
-
 </p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-ibrahimhasan96-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibrahimhasan96)](https://www.linkedin.com/in/ibrahimhasan96)
+[![Medium Badge](https://img.shields.io/badge/-@ibrahim_hasan-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@ibrahim_hasan)](https://medium.com/@ibrahim_hasan)
+[![Twitter Badge](https://img.shields.io/badge/-Ibrahim__Hasan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ibrahim__Hasan)](https://twitter.com/Ibrahim__Hasan)
+[![Outlook Badge](https://img.shields.io/badge/-ibrahim____hasan-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:ibrahim__hasan@outlook.com)](mailto:ibrahim__hasan@outlook.com)
+
