@@ -1,10 +1,15 @@
-<h2>Hi  I'm Ibrahim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
+<h2>
+  Hi I'm Ibrahim
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=himamegahed.himamegahed">
+</h2> 
 
-<h6>
-  I'm a 24 innovative optimized solution seeker from egypt. Excited to be at the new phase of my career as a full-stack software engineer. I see my self as someone who can make a major impact in the world and i just wanna see how much of foot print  i can leave on the earth before i leave 
-</h6>
 
-<h5>Things I usually use</h5>
+<h4>
+  I'm a 24 innovative optimized solution seeker from Egypt. Excited to be at the new phase of my career as a full-stack software engineer. I see my self as someone who can make a major impact in the world and i just wanna see how much of foot print  i can leave on the earth before i leave.
+</h4>
+
+<h3>Things I usually use</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React-Native" src="https://img.shields.io/badge/-React--Native-AEC7EA?style=flat-square&logo=react&logoColor=white" />
@@ -18,15 +23,17 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-    <img alt="yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white" />
+  <img alt="yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Ios" src="https://img.shields.io/badge/--000000?style=flat-square&logo=ios&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-    <img alt="Azure-Functions" src="https://img.shields.io/badge/-Azure_Functions-0062AD?style=flat-square&logo=Azure-Functions&logoColor=white" />
+  <img alt="Azure-Functions" src="https://img.shields.io/badge/-Azure_Functions-0062AD?style=flat-square&logo=Azure-Functions&logoColor=white" />
   <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white" /> 
-    <img alt=".Net" src="https://img.shields.io/badge/-.Net-512BD4?style=flat-square&logo=.net&logoColor=white" /> 
+  <img alt=".Net" src="https://img.shields.io/badge/-.Net-512BD4?style=flat-square&logo=.net&logoColor=white" /> 
   <img alt=".Net-Core" src="https://img.shields.io/badge/-.Net--Core-712BD4?style=flat-square&logo=.net&logoColor=white" /> 
+  <img alt="Visual-Studio" src="https://img.shields.io/badge/-.Visual_Studio-5C2D91?style=flat-square&logo=.net&logoColor=white" />
+  <img alt="Visual-Studio-Code" src="https://img.shields.io/badge/-.Visual_Studio_Code-007ACC?style=flat-square&logo=.net&logoColor=white" /> 
 </p>
 
 
@@ -34,13 +41,16 @@
 
 <p align="center">
   <a href="https://github.com/hima-Megahed" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=hima-Megahed&count_private=true&title_color=000&text_color=777" alt="Ibrahim's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=hima-Megahed&count_private=true&hide=stars&show_icons=true&theme=buefy&include_all_commits=true" alt="Ibrahim's Stats" >
   </a>
 </p>
 
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hima-megahed&count_private=true&layout=compact)](https://github.com/hima-Megahed)
-</div>
+<p align="center">
+  <a href="https://github.com/hima-Megahed">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hima-megahed&count_private=true&layout=compact" alt="Ibrahim's Stats" >
+  </a>
+</p>
+
 
 
 <p align="center">
@@ -53,19 +63,9 @@
   <br><br>
   <strong>Reach me out, and let's be friends 🤝</strong>
   <br><br>
-  <a href="https://github.com/hima-Megahed">
-    <img src="https://badges.pufler.dev/visits/hima-Megahed/DatingApp?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/hima-Megahed">
-    <img src="https://badges.pufler.dev/years/hima-Megahed?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/hima-Megahed">
-    <img src="https://badges.pufler.dev/repos/hima-Megahed?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/hima-Megahed">
-    <img src="https://badges.pufler.dev/gists/hima-Megahed?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/hima-Megahed">
-    <img src="https://badges.pufler.dev/commits/monthly/hima-Megahed?style=flat-square&color=black&logo=github">
-  </a>
+  [![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibrahimhasan96)](https://www.linkedin.com/in/ibrahimhasan96)
+[![Medium Badge](https://img.shields.io/badge/-@__jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@ibrahim_hasan)](https://medium.com/@ibrahim_hasan)
+[![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ibrahim__Hasan)](https://twitter.com/Ibrahim__Hasan)
+[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
+
 </p>
